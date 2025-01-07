@@ -1,0 +1,114 @@
+Moodles_IT = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "Esausto al 25% o più<br>vista leggermente ridotta durante la modalità ricerca<br>-50% danni corpo a corpo<br>-7% velocità d'attacco<br>+10% possibilità di inciampare mentre si salta<br>-5% possibilità di scavalcare alte recinzioni<br>-19% velocità<br>-2% possibilità di bloccare attacchi frontali",
+	Moodles_endurance_desc_lvl2 = "Esausto al 50% o più<br>vista ridotta e più scura durante la modalità ricerca<br>-80% danni corpo a corpo<br>-14% velocità d'attacco<br>+20% possibilità di inciampare mentre si salta<br>-10% possibilità di scavalcare alte recinzioni<br>-37% velocità<br>-4% possibilità di bloccare attacchi frontali<br>non puoi scattare",
+	Moodles_endurance_desc_lvl3 = "Esausto al 75% o più<br>vista scarsa e molto scura durante la modalità ricerca<br>-90% danni corpo a corpo<br>-21% velocità d'attacco<br>+30% possibilità di inciampare mentre si salta<br>-15% possibilità di scavalcare alte recinzioni<br>-56% velocità<br>-6% possibilità di bloccare attacchi frontali<br>non puoi scattare<br>non puoi correre<br>non puoi camminare veloce<br>non puoi fare esercizi",
+	Moodles_endurance_desc_lvl4 = "Esausto al 90% o più<br>vista pessima e estremamente scura durante la modalità ricerca<br>-95% danni corpo a corpo<br>-28% velocità d'attacco<br>+40% possibilità di inciampare mentre si salta<br>-20% possibilità di scavalcare alte recinzioni<br>-75% velocità<br><br>-8% possibilità di bloccare attacchi frontali<br>non puoi scattare<br>non puoi correre<br>non puoi camminare veloce<br>non puoi fare esercizi<br>non puoi usare armi pesanti",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Sovraccarico al 100% o più <br>-5% possibilità colpo critico<br>-7% velocità d'attacco<br>+13% possibilità di inciampare mentre si salta<br>-8% possibilità di scavalcare alte recinzioni<br>-19% velocità<br>-2% possibilità di bloccare attacchi frontali<br>recupero della resistenza ridotto",
+	Moodles_heavyload_desc_lvl2 = "Sovraccarico al 125% o più<br>-10% possibilità colpo critico<br>-14% velocità d'attacco<br>+26% possibilità di inciampare mentre si salta<br>-16% possibilità di scavalcare alte recinzioni<br>-37% velocità<br>-4% possibilità di bloccare attacchi frontali<br>recupero della resistenza gravemente ridotto<br>non puoi scattare",
+	Moodles_heavyload_desc_lvl3 = "Sovraccarico al 150% o più<br>-15% possibilità colpo critico<br>-21% velocità d'attacco<br>+39% possibilità di inciampare mentre si salta<br>-24% possibilità di scavalcare alte recinzioni<br>-56% velocità<br>-6% possibilità di bloccare attacchi frontali<br>non puoi recuperare resistenza<br>non puoi correre<br>non puoi fare esercizi<br>perdita della barra salute",
+	Moodles_heavyload_desc_lvl4 = "Sovraccarico al 175% o più<br>-20% possibilità colpo critico<br>-28% velocità d'attacco<br>+52% possibilità di inciampare mentre si salta<br>-32% possibilità di scavalcare alte recinzioni<br>-75% velocità<br>-8% possibilità di bloccare attacchi frontali<br>perdi resistenza<br>non puoi correre<br>non puoi fare esercizi<br>perdita della barra salute",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "Stanco al 60% o più<br>vista leggermente ridotta durante la modalità ricerca<br>-50% danni corpo a corpo<br>precisione leggermente ridotta<br>vista leggermente ridotta<br>diminuzione della consapevolezza<br>aumento della rigidità muscolare<br>recupero della resistenza ridotto<br>-3% possibilità di bloccare attacchi frontali",
+	Moodles_tired_desc_lvl2 = "Stanco al 70% o più<br>vista ridotta e più scura durante la modalità ricerca<br>-80% danni corpo a corpo<br>precisione ridotta<br>vista ridotta<br>consapevolezza gravemente diminuita<br>aumento della rigidità muscolare<br>recupero della resistenza gravemente ridotto<br>-6% possibilità di bloccare attacchi frontali",
+	Moodles_tired_desc_lvl3 = "Stanco al 80% o più<br>vista scarsa e molto scura durante la modalità ricerca<br>-90% danni corpo a corpo<br>precisione notevolmente ridotta<br>vista notevolmente ridotta<br>consapevolezza pessima<br>aumento della rigidità muscolare<br>recupero della resistenza pessimo<br>puoi dormire nonostante il forte dolore<br>-9% possibilità di bloccare attacchi frontali",
+	Moodles_tired_desc_lvl4 = "Stanco al 90% o più<br>vista pessima e estremamente scura durante la modalità ricerca<br>-95% danni corpo a corpo<br>pessima precisione<br>pessima vista<br>non hai visibilità alle tue spalle<br>aumento della rigidità muscolare<br>non puoi recuperare resistenza<br>puoi dormire nonostante il forte dolore<br>-12% possibilità di bloccare attacchi frontali",
+	-- CantSprint
+	Moodles_CantSprint_desc = "abiti, borse o oggetti pesanti ti rallentano!<br>non puoi scattare",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Assetato al 12% o più<br>nessun effetto negativo",
+	Moodles_thirst_desc_lvl2 = "Assetato al 25% o più<br>-1 capacità di carico<br>-35% velocità di guarigione<br>aumento leggero del calore corporeo",
+	Moodles_thirst_desc_lvl3 = "Assetato al 70% o più<br>-2 capacità di carico<br>-65% velocità di guarigione<br>aumento del calore corporeo",
+	Moodles_thirst_desc_lvl4 = "Assetato al 84% o più<br>-2 capacità di carico<br>-100% velocità di guarigione<br>aumento significativo del calore corporeo<br>perdita della barra salute",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Affamato al 15% o più<br>+7.5% vista durante la modalità ricerca per il cibo",
+	Moodles_hungry_desc_lvl2 = "Affamato al 25% o più<br>+12.5% vista durante la modalità ricerca per il cibo<br>-1 capacità di carico<br>-35% velocità di guarigione<br>-15% calore corporeo",
+	Moodles_hungry_desc_lvl3 = "Affamato al 45% o più<br>+22.5% vista durante la modalità ricerca per il cibo<br>-2 capacità di carico<br>-60% velocità di guarigione<br>-35% calore corporeo",
+	Moodles_hungry_desc_lvl4 = "Affamato al 70% o più<br>+35% vista durante la modalità ricerca per il cibo<br>-2 capacità di carico<br>-100% velocità di guarigione<br>-50% calore corporeo<br>perdita della barra salute",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "13 secondi di sazietà<br>+2 capacità di carico<br>+15% velocità di guarigione",
+	Moodles_foodeaten_desc_lvl2 = "14,6 secondi di sazietà<br>+2 capacità di carico<br>+30% velocità di guarigione",
+	Moodles_foodeaten_desc_lvl3 = "16,2 secondi di sazietà<br>+2 capacità di carico<br>+45% velocità di guarigione<br>non puoi mangiare altro cibo",
+	Moodles_foodeaten_desc_lvl4 = "17,8 secondi di sazietà<br>+2 capacità di carico<br>+60% velocità di guarigione<br>non puoi mangiare altro cibo",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Ubriaco al 10% o più<br>vista leggermente ridotta durante la modalità ricerca<br>leggera diminuzione della noia<br>aumento leggero della stanchezza<br>controllo dello sterzo di guida leggermente ridotto<br>precisione leggermente ridotta<br>leggera diminuzione del calore corporeo",
+	Moodles_drunk_desc_lvl2 = "Ubriaco al 30% o più<br>vista ridotta durante la modalità ricerca<br>diminuzione della noia<br>aumento della stanchezza<br>controllo dello sterzo di guida ridotto<br>precisione ridotta<br>diminuzione del calore corporeo",
+	Moodles_drunk_desc_lvl3 = "Ubriaco al 50% o più<br>vista scarsa durante la modalità ricerca<br>diminuzione maggiore della noia<br>aumento maggiore della stanchezza<br>controllo dello sterzo di guida scarso<br>precisione notevolmente ridotta<br>diminuzione maggiore del calore corporeo",
+	Moodles_drunk_desc_lvl4 = "Ubriaco al 70% o più<br>vista pessima durante la modalità ricerca<br>diminuzione rapida della noia<br>aumento significativo della stanchezza<br>controllo dello sterzo di guida pessimo<br>pessima precisione<br>diminuzione significativa del calore corporeo",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "Annoiato al 25% o più<br>nessun effetto negativo",
+	Moodles_bored_desc_lvl2 = "Annoiato al 50% o più<br>leggero aumento dell'infelicità",
+	Moodles_bored_desc_lvl3 = "Annoiato al 75% o più<br>aumento dell'infelicità",
+	Moodles_bored_desc_lvl4 = "Annoiato al 90% o più<br>aumento rapido dell'infelicità",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Infelice al 20% o più<br>-10% velocità delle azioni",
+	Moodles_unhappy_desc_lvl2 = "Infelice al 45% o più<br>-20% velocità delle azioni",
+	Moodles_unhappy_desc_lvl3 = "Infelice al 60% o più<br>-30% velocità delle azioni",
+	Moodles_unhappy_desc_lvl4 = "Infelice al 80% o più<br>-40% velocità delle azioni",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "Arrabbiato al 25% o più<br>nessun effetto negativo",
+	Moodles_angry_desc_lvl2 = "Arrabbiato al 50% o più<br>nessun effetto negativo",
+	Moodles_angry_desc_lvl3 = "Arrabbiato al 75% o più<br>nessun effetto negativo",
+	Moodles_angry_desc_lvl4 = "Arrabbiato al 90% o più<br>nessun effetto negativo",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "Stressato al 25% o più<br>vista leggermente ridotta durante la modalità ricerca",
+	Moodles_stress_desc_lvl2 = "Stressato al 50% o più<br>vista ridotta e più scura durante la modalità ricerca<br>-0.1 danno corpo a corpo<br>leggero aumento dell'infelicità",
+	Moodles_stress_desc_lvl3 = "Stressato al 75% o più<br>vista scarsa e molto scura durante la modalità ricerca<br>-0.2 danno corpo a corpo<br>aumento dell'infelicità",
+	Moodles_stress_desc_lvl4 = "Stressato al 90% o più<br>vista pessima e estremamente scura durante la modalità ricerca<br>-0.3 danno corpo a corpo<br>aumento rapido dell'infelicità",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "Spaventato al 6% o più<br>vista leggermente ridotta durante la modalità ricerca<br>-1.3% possibilità colpo critico<br>tempo di ricarica e velocità peggiorati<br>tempi di riposo peggiorati",
+	Moodles_panic_desc_lvl2 = "Spaventato al 30% o più<br>vista ridotta e più scura durante la modalità ricerca<br>-2.6% possibilità colpo critico<br>-0.1 danno corpo a corpo<br>ti alzi più velocemente da seduto<br>spinta peggiorata<br>probabilità di spinta peggiorata<br>precisione peggiorata<br>tempo di ricarica e velocità peggiorati<br>tempi di riposo peggiorati",
+	Moodles_panic_desc_lvl3 = "Spaventato al 65% o più<br>vista scarsa e molto scura durante la modalità ricerca<br>-3.9% possibilità colpo critico<br>-0.2 danno corpo a corpo<br>-0.4 danno a distanza (se il livello di mira è inferiore a 6)<br>ti alzi più velocemente da seduto<br>spinta peggiorata<br>probabilità di spinta peggiorata<br>precisione peggiorata<br>tempo di ricarica e velocità peggiorati<br>tempi di riposo peggiorati",
+	Moodles_panic_desc_lvl4 = "Spaventato al 80% o più<br>vista pessima e estremamente scura durante la modalità ricerca<br>-5.2% possibilità colpo critico<br>-0.3 danno corpo a corpo<br>-0.6 danno a distanza (se il livello di mira è inferiore a 6)<br>cono visivo ristretto<br>ti alzi più velocemente da seduto<br>spinta peggiorata<br>probabilità di spinta peggiorata<br>precisione peggiorata<br>tempo di ricarica e velocità peggiorati<br>tempi di riposo peggiorati",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Bagnato al 15% o più<br>nessun effetto negativo",
+	Moodles_wet_desc_lvl2 = "Bagnato al 40% o più<br>piccola possibilità di contrarre il raffreddore",
+	Moodles_wet_desc_lvl3 = "Bagnato al 70% o più<br>possibilità di contrarre il raffreddore",
+	Moodles_wet_desc_lvl4 = "Bagnato al 90% o più<br>possibilità elevate di contrarre il raffreddore",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Influenzato al 20% o più<br>starnutisce e tossisce",
+	Moodles_hasacold_desc_lvl2 = "Influenzato al 40% o più<br>starnutisce e tossisce di più",
+	Moodles_hasacold_desc_lvl3 = "Influenzato al 60% o più<br>starnutisce e tossisce spesso<br>-20% velocità<br>-20% velocità di guarigione",
+	Moodles_hasacold_desc_lvl4 = "Influenzato al 75% o più<br>starnutisce e tossisce molto<br>-35% velocità<br>-35% velocità di guarigione",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Ammalato al 25% o più<br>vista leggermente ridotta durante la modalità ricerca<br>leggero aumento del calore corporeo<br>possibilità di perdita della barra salute",
+	Moodles_sick_desc_lvl2 = "Ammalato al 50% o più<br>vista ridotta durante la modalità ricerca<br>aumento del calore corporeo<br>-1 capacità di carico<br>-35% velocità di guarigione<br>possibilità di perdita della barra salute",
+	Moodles_sick_desc_lvl3 = "Ammalato al 75% o più<br>vista scarsa durante la modalità ricerca<br>aumento maggiore del calore corporeo<br>-2 capacità di carico<br>-60% velocità di guarigione<br>possibilità di perdita della barra salute",
+	Moodles_sick_desc_lvl4 = "Ammalato al 90% o più<br>vista pessima durante la modalità ricerca<br>aumento significativo del calore corporeo<br>-3 capacità di carico<br>possibilità di perdita della barra salute",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "Barra della salute al 80% o meno<br>nessun effetto negativo",
+	Moodles_injured_desc_lvl2 = "Barra della salute al 60% o meno<br>-1 capacità di carico",
+	Moodles_injured_desc_lvl3 = "Barra della salute al 40% o meno<br>-2 capacità di carico",
+	Moodles_injured_desc_lvl4 = "Barra della salute al 25% o meno<br>-3 capacità di carico",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "Dolore al 10% o più<br>vista leggermente ridotta durante la modalità ricerca<br>+5% possibilità di inciampare mentre si salta",
+	Moodles_pain_desc_lvl2 = "Dolore al 20% o più<br>vista ridotta durante la modalità ricerca<br>+10% possibilità di inciampare mentre si salta<br>-15% danno corpo a corpo<br>-15% velocità d'attacco<br>-15% velocità<br>non puoi dormire",
+	Moodles_pain_desc_lvl3 = "Dolore al 50% o più<br>vista scarsa durante la modalità ricerca<br>+15% possibilità di inciampare mentre si salta<br>-20% danno corpo a corpo<br>-15% velocità d'attacco<br>-15% velocità<br>non puoi dormire",
+	Moodles_pain_desc_lvl4 = "Dolore al 75% o più<br>vista pessima durante la modalità ricerca<br>+20% possibilità di inciampare mentre si salta<br>-35% danno corpo a corpo<br>-15% velocità d'attacco<br>-15% velocità<br>non puoi dormire<br>non puoi fare esercizi",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "Una parte del tuo corpo sanguina<br>leggera perdita della barra salute",
+	Moodles_bleed_desc_lvl2 = "Due parti del tuo corpo sanguinano<br>-1 capacità di carico<br>perdita della barra salute",
+	Moodles_bleed_desc_lvl3 = "Tre parti del tuo corpo sanguinano<br>-1 capacità di carico<br>perdita maggiore della barra salute",
+	Moodles_bleed_desc_lvl4 = "Quattro parti del tuo corpo sanguinano<br>-1 capacità di carico<br>perdita significativa della barra salute",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Temperatura 37.5°C<br>leggero aumento della stanchezza<br>leggero aumento della sete",
+	Moodles_hyperthermia_desc_lvl2 = "Temperatura 39°C<br>aumento della stanchezza<br>aumento della sete<br>-34% velocità d'attacco<br>-34% velocità",
+	Moodles_hyperthermia_desc_lvl3 = "Temperatura 40°C<br>aumento maggiore della stanchezza<br>aumento maggiore della sete<br>-67% velocità d'attacco<br>-67% velocità",
+	Moodles_hyperthermia_desc_lvl4 = "Temperatura 41°C<br>aumento rapido della stanchezza<br>aumento significativo della sete<br>-90% velocità d'attacco<br>-100% velocità<br>perdita della barra salute",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Temperatura 36.5°C<br>nessun effetto negativo",
+	Moodles_hypothermia_desc_lvl2 = "Temperatura 35°C<br>-34% velocità d'attacco<br>-34% velocità<br>piccola possibilità di contrarre il raffreddore",
+	Moodles_hypothermia_desc_lvl3 = "Temperatura 30°C<br>-67% velocità d'attacco<br>-67% velocità<br>possibilità di contrarre il raffreddore",
+	Moodles_hypothermia_desc_lvl4 = "Temperatura 25°C<br>-90% velocità d'attacco<br>-100% velocità<br>possibilità elevate di contrarre il raffreddore<br>perdita della barra salute",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5°C più freddo di quanto sembri",
+	Moodles_windchill_desc_lvl2 = "10°C più freddo di quanto sembri",
+	Moodles_windchill_desc_lvl3 = "15°C più freddo di quanto sembri",
+	Moodles_windchill_desc_lvl4 = "20°C più freddo di quanto sembri",
+	-- Dead
+	Moodles_dead_lvl1 = "Riposa in pace, soldato.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Uno di noi.",
+}
